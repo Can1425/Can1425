@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Can1425
-- ✨ 我尽量保持与 Gitee ，Gitlab 的储存库同步
+- ✨ 我尽量保持与 Gitee ，Gitlab 的储存库同步  I try to stay in sync with Gitee, Gitlab repositories.
 - 🌱 https://gitee.com/can1425  https://gitlab.com/can1425
 
 <!---
